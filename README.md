@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./image" alt="الشهادة بالخط الكوفي الهندسي" width="100%" />
+<img src="./img.png" width="100%" />
 
 </div>
 
